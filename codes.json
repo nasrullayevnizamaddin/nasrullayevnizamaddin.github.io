@@ -1,0 +1,13 @@
+{
+ "v": 1,
+ "codes": [
+  {
+   "h": "4ca18f8d1d492be1d8fd93b06f0c144b0de1be4b6cd8dca05903fb28ca2d1fe5",
+   "give": {
+    "gm": 200,
+    "eggs": 2
+   },
+   "until": "2027-01-31"
+  }
+ ]
+}
